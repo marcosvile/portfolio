@@ -58,6 +58,13 @@ a:hover {
   font-size: 20px !important;
 }
 
+.text-cv {
+  font-size: 18px !important;
+  text-align: justify;
+  white-space: pre-line;
+  font-family: "Work Sans", sans-serif; 
+}
+
 /* Color systems */
 .bg-primary {
   background-color: #6C55F9 !important;
@@ -157,6 +164,12 @@ a.text-accent:hover, a.text-accent:focus {
 
 .text-secondary {
   color: #645F88 !important;
+}
+
+
+.ember-view {
+  padding: 0px; 
+  border-radius: 30px;
 }
 
 a.text-secondary:hover, a.text-secondary:focus {
@@ -1345,6 +1358,17 @@ a.text-dark:hover, a.text-dark:focus {
   margin-top: 16px;
   margin-bottom: 16px;
   height: 320px;
+  background-color: #F6F5FC;
+  color: #645F88;
+  border-radius: 30px;
+  z-index: 10;
+}
+
+.page-banner2 {
+  position: relative;
+  margin-top: 16px;
+  margin-bottom: 16px;
+  height: 3500px;
   background-color: #F6F5FC;
   color: #645F88;
   border-radius: 30px;
