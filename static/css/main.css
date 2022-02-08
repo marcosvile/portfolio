@@ -1401,6 +1401,10 @@ a.text-dark:hover, a.text-dark:focus {
   transition: all .2s ease;
 }
 
+html{
+  scroll-behavior: smooth;
+}
+
 .page-banner.home-banner .btn-scroll:hover {
   text-decoration: none;
   background-color: #6C55F9;
