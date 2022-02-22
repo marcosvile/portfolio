@@ -1598,6 +1598,17 @@ html{
   padding-bottom: 24px;
 }
 
+.price2 {
+  width: 200px;
+  align-items: center;
+}
+
+.price3 {
+  width: 181px;
+  height: 102px;
+  align-items: center;
+}
+
 .card-pricing .header .pricing-type {
   display: block;
   margin-top: 8px;
