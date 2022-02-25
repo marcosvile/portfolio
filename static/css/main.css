@@ -1600,14 +1600,23 @@ html{
 
 .price2 {
   width: 200px;
+  height: 116px;
   align-items: center;
 }
 
 .price3 {
-  width: 181px;
-  height: 102px;
+  /* height: 1111110%; */
+  width: 200px;
   align-items: center;
+
 }
+
+/* .header-img {
+  height: 200%;
+  width: 200pt;
+  align-items: center;
+
+} */
 
 .card-pricing .header .pricing-type {
   display: block;
